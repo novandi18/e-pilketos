@@ -1,0 +1,6 @@
+/* Desktop mode */
+@media only screen and (min-width: 761px) {
+    body .darkmode {
+        background: #1c1c1c;
+    }
+}
