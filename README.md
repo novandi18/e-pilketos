@@ -1,6 +1,5 @@
 E-Pilketos
 
-=============================================================================
 Aplikasi pemilihan calon osis untuk sekolah yang dibangun menggunakan PHP.
 =============================================================================
 
